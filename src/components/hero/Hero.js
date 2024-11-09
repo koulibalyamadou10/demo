@@ -1,6 +1,16 @@
 import {Header} from "../header/Header";
+import "./assets/hero.css"
+import {useEffect, useRef} from "react";
 
 export function Hero(){
+
+    const bienvenue = useRef(null)
+
+    useEffect(()=>{
+        window.addEventListener("load", ()=>{
+        })
+    }, [])
+
     return (
         <div>
             <Header></Header>
@@ -15,11 +25,11 @@ export function Hero(){
                                     Travailler pour votre réussite
                                 </div>
                                 <h1 className="mb-4">
-                                    Un avenir <br />
-                                    prometteur <br />
-                                    <span className="accent-text">commence ici.</span>
+                                    <span className="avenir">Un avenir</span> <br />
+                                    <span className="prometteur">prometteur</span> <br />
+                                    <span className="commence accent-text">commence ici.</span>
                                 </h1>
-                                <p className="mb-4 mb-md-5">
+                                <p ref={bienvenue} className="bienvenue mb-4 mb-md-5">
                                     Bienvenue dans une université où l'excellence académique et l'innovation se
                                     rencontrent pour façonner les leaders de demain. Rejoignez une communauté
                                     d'apprenants et de chercheurs engagés dans un avenir meilleur.
@@ -36,7 +46,7 @@ export function Hero(){
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6">
+                        <div className="img col-lg-6">
                             <div className="hero-image" data-aos="zoom-out" data-aos-delay={300}>
                                 <img
                                     src="assets/img/illustration-1.webp"

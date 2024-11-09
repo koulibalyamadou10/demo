@@ -1,0 +1,80 @@
+#hero{
+}
+
+.avenir, .prometteur, .commence{
+    position: relative;
+    left: 0;
+}
+
+.avenir{
+    animation-name: avenir;
+    animation-duration: 3s;
+}
+
+@keyframes avenir{
+    0%{
+        left: -600px;
+    }
+    100%{
+        left: 0;
+    }
+}
+
+.prometteur{
+    animation-name: prometteur;
+    animation-duration: 3s;
+}
+
+@keyframes prometteur{
+    0%{
+        left: -600px;
+    }
+    100%{
+        left: 0;
+    }
+}
+
+.commence{
+    animation-name: prometteur;
+    animation-duration: 3s;
+}
+
+@keyframes prometteur{
+    0%{
+        left: -600px;
+    }
+    100%{
+        left: 0;
+    }
+}
+
+.bienvenue{
+    position: relative;
+    animation-name: bienvenue;
+    animation-duration: 3s;
+}
+
+@keyframes bienvenue{
+    0%{
+        top: 800px;
+    }
+    100%{
+        top: 0;
+    }
+}
+
+.img{
+    position: relative;
+    left: 0;
+    animation-name: img;
+    animation-duration: 3s;
+}
+
+@keyframes img{
+    0%{
+        left: 600px;
+    }
+    100%{
+        left: 0;
+    }
+}

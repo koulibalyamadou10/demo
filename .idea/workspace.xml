@@ -5,45 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df37148a-2c3a-4273-9cc8-440bfd665be2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/about-2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/about-5.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar-1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar-2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar-3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar-4.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/avatar-5.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/clients/client-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/clients/client-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/clients/client-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/clients/client-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/clients/client-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/clients/client-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/clients/client-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/clients/client-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/features-illustration-1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/features-illustration-2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/features-illustration-3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/illustration-1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/phone-app-screen.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/services.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/testimonials/testimonials-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/testimonials/testimonials-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/testimonials/testimonials-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/testimonials/testimonials-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/assets/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/hero/Hero.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/hero/assets/hero.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hero/Hero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hero/assets/hero.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hero/assets/hero.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/kouli/WebstormProjects/demo/public",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/kouli/WebstormProjects/demo/src/main.js",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kouli/WebstormProjects/demo/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kouli/WebstormProjects/demo/src/main.js&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kouli\WebstormProjects\demo\public" />
@@ -105,7 +69,8 @@
       <updated>1730827805665</updated>
       <workItem from="1730827806521" duration="1478000" />
       <workItem from="1730829823230" duration="3597000" />
-      <workItem from="1730836771527" duration="2189000" />
+      <workItem from="1730836771527" duration="2954000" />
+      <workItem from="1730920956208" duration="8449000" />
     </task>
     <servers />
   </component>
